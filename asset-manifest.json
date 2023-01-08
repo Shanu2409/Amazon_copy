@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://shanu2409.github.io/csb-lepg4o/static/css/main.72d05f9e.chunk.css",
+    "main.js": "https://shanu2409.github.io/csb-lepg4o/static/js/main.be4c32a9.chunk.js",
+    "main.js.map": "https://shanu2409.github.io/csb-lepg4o/static/js/main.be4c32a9.chunk.js.map",
+    "runtime-main.js": "https://shanu2409.github.io/csb-lepg4o/static/js/runtime-main.de46ecb6.js",
+    "runtime-main.js.map": "https://shanu2409.github.io/csb-lepg4o/static/js/runtime-main.de46ecb6.js.map",
+    "static/js/2.3e0b527b.chunk.js": "https://shanu2409.github.io/csb-lepg4o/static/js/2.3e0b527b.chunk.js",
+    "static/js/2.3e0b527b.chunk.js.map": "https://shanu2409.github.io/csb-lepg4o/static/js/2.3e0b527b.chunk.js.map",
+    "static/js/3.5a10e21c.chunk.js": "https://shanu2409.github.io/csb-lepg4o/static/js/3.5a10e21c.chunk.js",
+    "static/js/3.5a10e21c.chunk.js.map": "https://shanu2409.github.io/csb-lepg4o/static/js/3.5a10e21c.chunk.js.map",
+    "index.html": "https://shanu2409.github.io/csb-lepg4o/index.html",
+    "static/css/main.72d05f9e.chunk.css.map": "https://shanu2409.github.io/csb-lepg4o/static/css/main.72d05f9e.chunk.css.map",
+    "static/js/2.3e0b527b.chunk.js.LICENSE.txt": "https://shanu2409.github.io/csb-lepg4o/static/js/2.3e0b527b.chunk.js.LICENSE.txt",
+    "static/media/logo.72fafd14.png": "https://shanu2409.github.io/csb-lepg4o/static/media/logo.72fafd14.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de46ecb6.js",
+    "static/js/2.3e0b527b.chunk.js",
+    "static/css/main.72d05f9e.chunk.css",
+    "static/js/main.be4c32a9.chunk.js"
+  ]
+}
